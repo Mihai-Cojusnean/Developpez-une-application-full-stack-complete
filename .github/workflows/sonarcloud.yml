@@ -22,3 +22,4 @@ jobs:
           args: >
              -Dsonar.projectKey=Mihai-Cojusnean_Developpez-une-application-full-stack-complete
              -Dsonar.organization=mihai-cojusnean
+             -Dsonar.java.binaries=back/target
